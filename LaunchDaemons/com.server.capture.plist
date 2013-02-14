@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+        <key>Disabled</key>
+        <false/>
+        <key>Label</key>
+        <string>com.server.capture</string>
+        <key>ProgramArguments</key>
+        <array>
+                <string>/Users/username/path_to/capture.py</string>
+        </array>
+        <key>OnDemand</key>
+        <false/>
+</dict>
+</plist>
